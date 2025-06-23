@@ -1,0 +1,8 @@
+streamlit==1.32.2
+ultralytics==8.1.5
+supervision==0.18.0
+opencv-python==4.8.0.76
+numpy==1.23.5
+torch==2.0.1  # Downgraded for compatibility
+torchvision==0.15.2  # Matching version
+tqdm==4.66.1
